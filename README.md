@@ -11,16 +11,9 @@ Site vitrine responsive développé en HTML et CSS.
 - Formulaire de contact accessible et fonctionnel.  
 - Footer adaptatif avec liens de navigation et principes de responsive design.
 
-**EN :**  
-Responsive showcase website developed with HTML and CSS.  
-- Fluid grid layout for adaptable design on all screen sizes.  
-- Animated mobile menu with accessible open/close controls.  
-- Accessible and functional contact form.  
-- Adaptive footer with navigation links and responsive design principles.
-
 ---
 
-## Features / Fonctionnalités
+## Fonctionnalités
 
 - Responsive grid system / Système de grille responsive  
 - Mobile-friendly menu with ARIA labels / Menu mobile avec labels ARIA  
@@ -39,24 +32,20 @@ Responsive showcase website developed with HTML and CSS.
 
 ---
 
-## Technologies utilisées / Technologies used
+## Technologies utilisées 
 
 - HTML5  
 - CSS3  
 
 ---
 
-## Licence / License
-
-Ce projet est libre d’utilisation.  
-This project is free to use.
-
----
-
-## Auteur / Author
+## Auteur
 
 Vanessa Paganotto
 
 ---
 
-*Dernière mise à jour / Last update : Janvier 2026*
+## Licence
+
+Ce projet est sous licence MIT.
+
